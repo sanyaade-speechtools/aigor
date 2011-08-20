@@ -1,6 +1,6 @@
 Dependencias:
 -python: probado en 2.6.6 y 2.7p
--yaiml: http://pyaiml.sourceforge.net/
+-pyaiml: http://pyaiml.sourceforge.net/
 -festival: http://www.cstr.ed.ac.uk/projects/festival/
 -pyfestival: http://code.google.com/p/pyfestival/
 -xgoogle: https://github.com/pkrumins/xgoogle
