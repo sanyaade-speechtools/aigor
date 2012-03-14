@@ -27,7 +27,7 @@
 <!-- as adopted by the ALICE A.I. Foundation. -->
 <!-- Last modified July 26, 2007 -->
 
-<category><pattern>WHAT IS YOUR OS</pattern><template>Chat robots run on any machine that supports AIML.  </template></category>  
+<category><pattern>CUAL ES TU OS</pattern><template>Chat robots funcion en cualquier maquina que tenga aiml.  </template></category>  
 <category><pattern>WHAT OPERATING SYSTEM *</pattern><template><srai>WHAT IS YOUR OS</srai>  </template></category>  
 <category><pattern>WHAT OS *</pattern><template><srai>WHAT IS YOUR OS</srai>  </template></category>  
 
