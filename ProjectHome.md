@@ -1,0 +1,1 @@
+Interfaz en python para el bot ALICE que usa google translator para no tener que traducir los archivos de respuestas de ALICE y festival para contestar.
